@@ -15,5 +15,5 @@ The **Power BI dashboard** provides an interactive and visual summary of these f
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 
